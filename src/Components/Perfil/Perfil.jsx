@@ -1,7 +1,7 @@
 import React from "react";
 import imagenPerfil from "../../assets/img/Perfil.jpeg";
 import "./Perfil.css";
-import Navbar from "../navbar/Navbar";
+import Navbar from '../Atoms/Navbar'
 import Fondo from "../../assets/img/perfil2.jpeg";
 import Instagram from "../../assets/img/instagram.png";
 import Face from "../../assets/img/facebook.png";

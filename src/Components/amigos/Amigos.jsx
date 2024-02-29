@@ -11,7 +11,7 @@ function Amigos() {
             </div>
 
             <div className='amigos-info'>
-                <h1>Didier Mendoza</h1>
+                <h1>Magarita Mendoza</h1>
                 <p>Ing. Sistema de software</p>
             </div>
         </div>
