@@ -1,9 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import Navbar from './Components/Atoms/Navbar'
+import Perfil from './Components/Perfil/Perfil'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Navbar></Navbar>
+  <Perfil></Perfil>
   </React.StrictMode>,
 )
