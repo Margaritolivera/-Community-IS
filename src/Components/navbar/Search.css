@@ -1,0 +1,30 @@
+.container-search {
+    width: 400px; /* Aumenta el ancho del contenedor principal */
+    margin: 0 auto; /* Centra el contenedor */
+    padding: 20px; /* Aumenta el espacio alrededor del contenedor */
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ajusta la altura según necesites */
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Espacio entre los elementos */
+}
+
+.input {
+    flex: 1;
+    border: 2px solid #C5C5C5; /* Cambiar el color del borde */
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.img {
+    width: 24px;
+    height: 24px;
+}
