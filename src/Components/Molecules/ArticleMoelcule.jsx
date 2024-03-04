@@ -1,6 +1,6 @@
 import React from "react";
-import Title from "../atoms/Title";
-import TextAtom from "../atoms/TextAtom";
+import Title from "../Atoms/Title";
+import TextAtom from "../Atoms/TextAtom";
 
 
 function ArticleMoelcule({content, title}) {
