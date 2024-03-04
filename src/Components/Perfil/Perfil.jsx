@@ -8,6 +8,7 @@ import Face from "../../assets/img/facebook.png";
 import x from "../../assets/img/gorjeo.png";
 import Articulo from "../articulo/Articulo";
 import Amigos from "../amigos/Amigos";
+import Post from "../../Components/post"
 
 function Perfil() {
   return (
@@ -88,6 +89,8 @@ function Perfil() {
             <Articulo/>
         </div>
       </section>
+      <Post />
+
     </>
   );
 }
